@@ -26,3 +26,12 @@ NUM 1 : https://youtu.be/JYwlIrLamGE
 NUM 2 : https://youtu.be/WOb96cniN_U
 
 NUM 3 : https://youtu.be/qZLaKWDuNOo 
+
+
+Forth Assignment
+
+NUM 1 : https://youtu.be/J_74CA5O9Bw
+
+NUM 2 : https://youtu.be/k5ytGuvkfEI
+
+NUM 3 : https://youtu.be/4jP5vL7LtZA
